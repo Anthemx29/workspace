@@ -1,5 +1,8 @@
 package com.cparris.TreeTraversal;
 
+/**
+ * Node used in Binary Search Tree. Has a left node, and a right node, and a value, for this demo it's just an integer.
+ */
 public class Node {
 
     public int value;
