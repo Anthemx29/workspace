@@ -1,4 +1,4 @@
-package com.cparris.BuilderPattern;
+package com.cparris.patterns.BuilderPattern;
 
 
 /**

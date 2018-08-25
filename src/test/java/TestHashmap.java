@@ -14,4 +14,9 @@ public class TestHashmap {
 
     }
 
+    @Test
+    public void testFirstNonRepeated(){
+        System.out.println(HashMapFunctions.findFirstNonRepeatingCharacterInString("ABACBD"));
+    }
+
 }

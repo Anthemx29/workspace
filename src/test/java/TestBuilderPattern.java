@@ -1,4 +1,4 @@
-import com.cparris.BuilderPattern.Engine;
+import com.cparris.patterns.BuilderPattern.Engine;
 import org.junit.Assert;
 import org.junit.Test;
 
